@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Mahendra Bisht</h1>
+<h1 align="center">Hi 👋, I'm Mahendra Singh</h1>
 <h3 align="center">Python Full Stack Developer | Django | React</h3>
 
 <p align="center">
@@ -38,7 +38,7 @@
 `React` `HTML` `CSS` `JavaScript`
 
 **Databases**
-`MySQL` `PostgreSQL`
+`MySQL` `PostgreSQL(Learning)`
 
 **Tools & Platforms**
 `Git` `GitHub` `VS Code` `Postman` `Render`
@@ -60,7 +60,9 @@ A travel booking platform designed to help users explore Uttarakhand tours and t
 
 ## ⚙️ Tools & Integrations
 
-- **Database:** Neon (PostgreSQL)
+- **Database:**
+  - Local Development: MySQL
+  - Production: PostgreSQL (Neon)
 - **Media Storage:** Cloudinary
 - **Deployment:** Render
 - **Payments:** Razorpay
