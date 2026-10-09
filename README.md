@@ -73,6 +73,6 @@ A travel booking platform designed to help users explore Uttarakhand tours and t
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Mahendra Bisht](https://www.linkedin.com/in/mahendra-singh-developer/)
+- 💼 LinkedIn: [Mahendra Singh](https://www.linkedin.com/in/mahendra-singh-developer/)
 - 📧 Email: [bishtmahendra840@gmail.com](mailto:bishtmahendra840@gmail.com)
 - 🌐 Portfolio: Coming Soon
